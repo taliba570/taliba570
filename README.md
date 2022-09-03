@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center">
+Hello! I'm Talib Allauddin 👋
+</h1>
+
+<p align="center">
+A curious Software Developer from Pakistan <img width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/510px-Flag_of_Pakistan.svg.png" />
+</p>
 
 <!--
 **taliba570/taliba570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
