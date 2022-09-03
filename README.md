@@ -6,6 +6,10 @@ Hello! I'm Talib Allauddin 👋
 A curious Software Developer from Pakistan <img width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/510px-Flag_of_Pakistan.svg.png" />
 </p>
 
+<p align="center">
+<img  src="https://www.codewars.com/users/taliba570/badges/large" />
+</p>
+
 <!--
 **taliba570/taliba570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
